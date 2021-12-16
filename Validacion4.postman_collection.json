@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "6472502f-7c15-4569-bfde-d3ef87a7e5c3",
+		"name": "Validacion4",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "PostUsuario",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "PostUsuario Error",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
